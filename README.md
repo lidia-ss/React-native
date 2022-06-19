@@ -2,9 +2,13 @@
 Introdução ao React Native
 ## Conteudo do Código:
 Projeto Profile
+
 View
+
 Text
+
 SafeAreaView
+
 Image
 Flex-box
 Style (StyleSheet)
